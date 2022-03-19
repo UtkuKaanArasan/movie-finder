@@ -1,0 +1,30 @@
+/* note: as this project is really small i'm using element selector. */
+
+
+body {
+    background-color: darkgray;
+    /* color: white; */
+}
+
+div{
+    text-align: center;
+}
+h1 {
+    display: flex;
+    justify-content:center;
+    margin:1%;
+}
+form {
+    display: flex;
+    justify-content:center;
+    margin:1%;    
+}
+img {
+    margin: 1%;
+}
+
+footer > p{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
